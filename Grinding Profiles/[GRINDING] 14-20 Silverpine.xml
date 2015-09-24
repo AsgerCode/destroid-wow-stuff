@@ -120,6 +120,71 @@
 		<Faction>38</Faction>
 		<Faction>44</Faction>
 	</Factions>
+	 <GhostHotspots>
+	 <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>438.5403</X>
+		 <Y>1515.734</Y>
+		 <Z>133.6423</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	  <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>392.4325</X>
+		 <Y>1488.202</Y>
+		 <Z>126.4922</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	  <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>338.3724</X>
+		 <Y>1449.687</Y>
+		 <Z>126.5438</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	  <GhostHotspot>
+         <!-- Pos: 53/58 -->
+		 <X>291.0567</X>
+		 <Y>1423.061</Y>
+		 <Z>118.5537</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	   <GhostHotspot>
+         <!-- Pos: 53/58 -->
+		 <X>206.4335</X>
+		 <Y>1427.626</Y>
+		 <Z>109.2713</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+      <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>175.6787</X>
+         <Y>1385.821</Y>
+         <Z>98.23855</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	   <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>150.6545</X>
+         <Y>1310.591</Y>
+         <Z>69.7685</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	   <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>109.1669</X>
+         <Y>1235.692</Y>
+         <Z>69.16801</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+	   <GhostHotspot>
+         <!-- Pos: 53/58 -->
+         <X>41.96016</X>
+         <Y>1215.626</Y>
+         <Z>65.9038</Z>
+         <Type>Waypoint</Type>
+      </GhostHotspot>
+   </GhostHotspots>
 	<VendorHotspots>
 		<VendorHotspot>
 			<!-- Pos: 53/72 -->
