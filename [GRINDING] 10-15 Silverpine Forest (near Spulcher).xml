@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Silverpine Forest 46/44 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 46/44 -->
+			<X>410.937</X>
+			<Y>1496.76</Y>
+			<Z>131.298</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/47 -->
+			<X>348.0552</X>
+			<Y>1449.252</Y>
+			<Z>126.7327</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/49 -->
+			<X>269.5284</X>
+			<Y>1421.971</Y>
+			<Z>114.4898</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/52 -->
+			<X>186.5431</X>
+			<Y>1388.965</Y>
+			<Z>101.5691</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/52 -->
+			<X>185.4314</X>
+			<Y>1340.414</Y>
+			<Z>82.37972</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/52 -->
+			<X>207.5654</X>
+			<Y>1294.466</Y>
+			<Z>74.62316</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/51 -->
+			<X>230.3024</X>
+			<Y>1224.356</Y>
+			<Z>69.9872</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 54/51 -->
+			<X>216.3467</X>
+			<Y>1153.57</Y>
+			<Z>73.05634</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/49 -->
+			<X>287.9517</X>
+			<Y>1133.544</Y>
+			<Z>79.80874</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/46 -->
+			<X>374.1444</X>
+			<Y>1205.926</Y>
+			<Z>79.61686</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/44 -->
+			<X>434.2395</X>
+			<Y>1189.197</Y>
+			<Z>88.01042</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/41 -->
+			<X>492.3043</X>
+			<Y>1186.45</Y>
+			<Z>87.0981</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/40 -->
+			<X>544.0007</X>
+			<Y>1186.457</Y>
+			<Z>87.15972</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/38 -->
+			<X>591.17</X>
+			<Y>1229.801</Y>
+			<Z>82.3186</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/38 -->
+			<X>589.963</X>
+			<Y>1306.274</Y>
+			<Z>87.17365</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>21</Faction>
+		<Faction>44</Faction>
+		<Faction>24</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 45/39 -->
+			<X>565.6147</X>
+			<Y>1559.732</Y>
+			<Z>132.5474</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 45/39 -->
+		<Position>
+			<X>566.309</X>
+			<Y>1559.6</Y>
+			<Z>132.5191</Z>
+		</Position>
+		<Name>Nadia Vernon</Name>
+	</Repair>
+</Profile>
