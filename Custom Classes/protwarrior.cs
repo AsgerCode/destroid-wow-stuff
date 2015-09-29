@@ -107,6 +107,15 @@ namespace something
                 }
             }
 
+			if (this.Player.GetSpellRank("Thunder Clap") != 0)
+            {
+                if (!this.Target.GotDebuff("Thunder Clap") && this.Player.Rage >= 20)
+                {
+                    this.Player.Cast("Thunder Clap");
+					return;
+                }
+            }
+			
             if (this.Player.GetSpellRank("Shield Block") != 0)
             {
                 if (this.Player.Rage >= 10 && !this.Player.GotBuff("Shield Block"))
