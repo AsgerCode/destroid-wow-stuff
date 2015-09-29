@@ -82,7 +82,7 @@ namespace something
 
          if (this.Player.GetSpellRank("Shield Bash") != 0)
             {
-                if (!this.Target.GotDebuff("Shield Bash") && this.Player.Rage >= 10 && this.Target.IsCasting())
+                if (!this.Target.GotDebuff("Shield Bash") && this.Player.Rage >= 10 && this.Target.IsCasting != "" || this.Target.IsChanneling != "")
                 {
                     this.Player.Cast("Shield Bash");
 					return;
@@ -91,7 +91,7 @@ namespace something
    
          if (this.Player.GetSpellRank("War Stomp") != 0)
             {
-                if (!this.Target.GotDebuff("War Stomp") && this.Target.IsCasting())
+                if (!this.Target.GotDebuff("War Stomp") && this.Target.IsCasting != "" || this.Target.IsChanneling != "")
                 {
                     this.Player.Cast("War Stomp");
 					return;
@@ -100,7 +100,7 @@ namespace something
 
          if (this.Player.GetSpellRank("Concussion Blow") != 0)
             {
-                if (!this.Target.GotDebuff("Concussion Blow") && this.Player.Rage >= 15 && this.Target.HealthPercent > 15 && this.Target.IsCasting())
+                if (!this.Target.GotDebuff("Concussion Blow") && this.Player.Rage >= 15 && this.Target.HealthPercent > 15 && this.Target.IsCasting != "" || this.Target.IsChanneling != "")
                 {
                     this.Player.Cast("Concussion Blow");
 					return;
@@ -167,29 +167,9 @@ namespace something
 
         }
 
-        public override bool Buff()
+public override bool Buff()
         {
-        if (this.Player.CanUse("Scroll of Strength III") && this.Player.ItemCount("Scroll of Strength III") > 0)
-            {
-                this.Player.UseItem("Scroll of Strength III");
-				return;
-            }
-      if (this.Player.CanUse("Scroll of Agility III") && this.Player.ItemCount("Scroll of Agility III") > 0)
-            {
-                this.Player.UseItem("Scroll of Agility III");
-				return;
-            }
-      if (this.Player.CanUse("Scroll of Stamina III") && this.Player.ItemCount("Scroll of Stamina III") > 0)
-            {
-                this.Player.UseItem("Scroll of Stamina III");
-				return;
-            }   
-      if (this.Player.CanUse("Scroll of Spirit III") && this.Player.ItemCount("Scroll of Spirit III") > 0)
-            {
-                this.Player.UseItem("Scroll of Spirit III");
-				return;
-            }   
-            
+
             //True means we are done buffing, or cannot buff
             return true;
         }

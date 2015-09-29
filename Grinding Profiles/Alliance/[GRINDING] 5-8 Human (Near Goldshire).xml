@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 41/68 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 41/68 -->
+			<X>-9536.325</X>
+			<Y>82.27887</Y>
+			<Z>58.89278</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/70 -->
+			<X>-9575.69</X>
+			<Y>73.66526</Y>
+			<Z>59.45667</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/72 -->
+			<X>-9625.55</X>
+			<Y>69.59415</Y>
+			<Z>62.50627</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/74 -->
+			<X>-9655.566</X>
+			<Y>98.64408</Y>
+			<Z>44.92</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/74 -->
+			<X>-9654.61</X>
+			<Y>136.5825</Y>
+			<Z>46.6953</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/73 -->
+			<X>-9635.226</X>
+			<Y>198.325</Y>
+			<Z>48.12438</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/77 -->
+			<X>-9732.897</X>
+			<Y>229.3449</Y>
+			<Z>49.19236</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/79 -->
+			<X>-9774.135</X>
+			<Y>259.1593</Y>
+			<Z>43.86558</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/81 -->
+			<X>-9823.896</X>
+			<Y>266.3647</Y>
+			<Z>40.23275</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/83 -->
+			<X>-9874.471</X>
+			<Y>272.3195</Y>
+			<Z>36.10812</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/85 -->
+			<X>-9913.271</X>
+			<Y>374.9928</Y>
+			<Z>35.03836</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 32/86 -->
+			<X>-9936.34</X>
+			<Y>414.1192</Y>
+			<Z>34.92271</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>22</Faction>
+		<Faction>26</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 42/66 -->
+			<X>-9470.614</X>
+			<Y>64.45033</Y>
+			<Z>56.07499</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 41/65 -->
+			<X>-9459.124</X>
+			<Y>81.48557</Y>
+			<Z>58.07721</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 41/65 -->
+		<Position>
+			<X>-9462.29</X>
+			<Y>87.8151</Y>
+			<Z>58.33875</Z>
+		</Position>
+		<Name>Andrew Krighton</Name>
+	</Repair>
+</Profile>

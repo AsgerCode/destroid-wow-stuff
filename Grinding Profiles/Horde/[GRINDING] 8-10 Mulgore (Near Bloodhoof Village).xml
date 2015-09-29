@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Mulgore 48/70 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 43/53 -->
+			<X>-2105.786</X>
+			<Y>-210.6549</Y>
+			<Z>-5.879249</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/54 -->
+			<X>-2123.409</X>
+			<Y>-177.4766</Y>
+			<Z>-7.540825</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/54 -->
+			<X>-2130.343</X>
+			<Y>-134.3023</Y>
+			<Z>-9.389277</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/53 -->
+			<X>-2088.441</X>
+			<Y>-114.9504</Y>
+			<Z>-6.21639</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/51 -->
+			<X>-2041.642</X>
+			<Y>-115.1987</Y>
+			<Z>-7.330313</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/50 -->
+			<X>-2005.696</X>
+			<Y>-99.80359</Y>
+			<Z>-6.127946</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/50 -->
+			<X>-2003.557</X>
+			<Y>-71.91309</Y>
+			<Z>-5.76652</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>14</Faction>
+		<Faction>189</Faction>
+		<Faction>73</Faction>
+		<Faction>38</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 46/58 -->
+			<X>-2282.986</X>
+			<Y>-333.442</Y>
+			<Z>-9.424763</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 45/58 -->
+			<X>-2281.629</X>
+			<Y>-311.4467</Y>
+			<Z>-9.424763</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 45/58 -->
+		<Position>
+			<X>-2284.47</X>
+			<Y>-310.26</Y>
+			<Z>-9.424803</Z>
+		</Position>
+		<Name>Harant Ironbrace</Name>
+	</Repair>
+</Profile>
