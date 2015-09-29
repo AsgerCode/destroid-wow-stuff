@@ -64,6 +64,57 @@
 		<Faction>189</Faction>
 		<Faction>73</Faction>
 	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 43/80 -->
+			<X>-3029.083</X>
+			<Y>-173.3856</Y>
+			<Z>63.57158</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 42/82 -->
+			<X>-3086.558</X>
+			<Y>-130.1198</Y>
+			<Z>45.3916</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/83 -->
+			<X>-3119.417</X>
+			<Y>-59.60469</Y>
+			<Z>49.89153</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 39/82 -->
+			<X>-3093.411</X>
+			<Y>22.42958</Y>
+			<Z>72.48524</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 37/81 -->
+			<X>-3055.927</X>
+			<Y>104.88</Y>
+			<Z>78.98128</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 36/80 -->
+			<X>-3017.93</X>
+			<Y>154.4081</Y>
+			<Z>72.29388</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 36/78 -->
+			<X>-2967.803</X>
+			<Y>178.3053</Y>
+			<Z>73.98777</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
 	<VendorHotspots>
 		<VendorHotspot>
 			<!-- Pos: 46/58 -->
