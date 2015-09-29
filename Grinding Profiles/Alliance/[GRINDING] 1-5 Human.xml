@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 47/41 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 47/41 -->
+			<X>-8901.571</X>
+			<Y>-124.0862</Y>
+			<Z>81.9072</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/39 -->
+			<X>-8858.634</X>
+			<Y>-114.7942</Y>
+			<Z>81.34171</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/38 -->
+			<X>-8823.52</X>
+			<Y>-115.9947</Y>
+			<Z>81.41911</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/36 -->
+			<X>-8795.712</X>
+			<Y>-125.9765</Y>
+			<Z>83.3458</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/36 -->
+			<X>-8776.531</X>
+			<Y>-132.7599</Y>
+			<Z>82.80671</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/35 -->
+			<X>-8750.385</X>
+			<Y>-175.0128</Y>
+			<Z>85.464</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/35 -->
+			<X>-8750.385</X>
+			<Y>-175.0128</Y>
+			<Z>85.464</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/35 -->
+			<X>-8768.945</X>
+			<Y>-244.8859</Y>
+			<Z>83.37189</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/38 -->
+			<X>-8820.395</X>
+			<Y>-252.1459</Y>
+			<Z>82.51342</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>32</Faction>
+		<Faction>25</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 47/41 -->
+			<X>-8899.185</X>
+			<Y>-120.2914</Y>
+			<Z>81.85078</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 47/41 -->
+		<Position>
+			<X>-8898.23</X>
+			<Y>-119.838</Y>
+			<Z>81.83287</Z>
+		</Position>
+		<Name>Godric Rothgar</Name>
+	</Repair>
+</Profile>

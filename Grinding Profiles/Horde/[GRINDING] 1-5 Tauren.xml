@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Mulgore 46/78 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 46/78 -->
+			<X>-2946.719</X>
+			<Y>-326.9258</Y>
+			<Z>55.62421</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/79 -->
+			<X>-2996.357</X>
+			<Y>-326.3435</Y>
+			<Z>49.79499</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/81 -->
+			<X>-3053.413</X>
+			<Y>-347.3447</Y>
+			<Z>40.52659</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/81 -->
+			<X>-3079.187</X>
+			<Y>-423.2004</Y>
+			<Z>36.2246</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/83 -->
+			<X>-3121.284</X>
+			<Y>-409.73</Y>
+			<Z>35.10388</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/83 -->
+			<X>-3135.126</X>
+			<Y>-335.9981</Y>
+			<Z>39.97111</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/83 -->
+			<X>-3135.126</X>
+			<Y>-335.9981</Y>
+			<Z>39.97111</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/85 -->
+			<X>-3191.325</X>
+			<Y>-176.6793</Y>
+			<Z>39.80089</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/86 -->
+			<X>-3225.7</X>
+			<Y>-119.3666</Y>
+			<Z>55.10559</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/87 -->
+			<X>-3273.678</X>
+			<Y>-98.56298</Y>
+			<Z>71.81709</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/88 -->
+			<X>-3308.869</X>
+			<Y>-69.65703</Y>
+			<Z>84.94098</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/88 -->
+			<X>-3308.869</X>
+			<Y>-69.65703</Y>
+			<Z>84.94098</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/88 -->
+			<X>-3294.615</X>
+			<Y>-147.6284</Y>
+			<Z>50.26072</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>7</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 44/77 -->
+			<X>-2925.675</X>
+			<Y>-218.1655</Y>
+			<Z>54.17694</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 44/77 -->
+			<X>-2916.422</X>
+			<Y>-237.4104</Y>
+			<Z>54.02782</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 44/77 -->
+		<Position>
+			<X>-2926.32</X>
+			<Y>-215.715</Y>
+			<Z>54.17664</Z>
+		</Position>
+		<Name>Marjak Keenblade</Name>
+	</Repair>
+</Profile>
