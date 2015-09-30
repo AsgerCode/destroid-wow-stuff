@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Loch Modan 36/39 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 36/39 -->
+			<X>-5217.092</X>
+			<Y>-3002.343</Y>
+			<Z>333.453</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/36 -->
+			<X>-5155.73</X>
+			<Y>-3030.226</Y>
+			<Z>331.2055</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/33 -->
+			<X>-5109.327</X>
+			<Y>-3058.645</Y>
+			<Z>326.6696</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/32 -->
+			<X>-5081.468</X>
+			<Y>-3016.929</Y>
+			<Z>324.3121</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/30 -->
+			<X>-5055.143</X>
+			<Y>-2984.117</Y>
+			<Z>333.6407</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/29 -->
+			<X>-5036.992</X>
+			<Y>-2948.797</Y>
+			<Z>340.6386</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/30 -->
+			<X>-5055.176</X>
+			<Y>-2924.51</Y>
+			<Z>331.1322</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/32 -->
+			<X>-5088.694</X>
+			<Y>-2911.357</Y>
+			<Z>326.4464</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/34 -->
+			<X>-5127.127</X>
+			<Y>-2907.163</Y>
+			<Z>331.5164</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/38 -->
+			<X>-5200.887</X>
+			<Y>-2919.177</Y>
+			<Z>339.4982</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>1094</Faction>
+		<Faction>22</Faction>
+		<Faction>44</Faction>
+		<Faction>26</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 36/42 -->
+			<X>-5267.449</X>
+			<Y>-3013.592</Y>
+			<Z>325.5741</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 37/44 -->
+			<X>-5304.931</X>
+			<Y>-3023.827</Y>
+			<Z>324.0617</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 36/46 -->
+			<X>-5337.31</X>
+			<Y>-3012.607</Y>
+			<Z>324.183</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 36/46 -->
+			<X>-5339.707</X>
+			<Y>-2987.885</Y>
+			<Z>323.8343</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 35/46 -->
+			<X>-5349.391</X>
+			<Y>-2965.193</Y>
+			<Z>323.9056</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 34/47 -->
+			<X>-5355.033</X>
+			<Y>-2951.335</Y>
+			<Z>323.8774</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 34/46 -->
+			<X>-5345.928</X>
+			<Y>-2935.057</Y>
+			<Z>324.3608</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 34/46 -->
+		<Position>
+			<X>-5343.68</X>
+			<Y>-2932.13</Y>
+			<Z>324.3607</Z>
+		</Position>
+		<Name>Morhan Coppertongue</Name>
+	</Repair>
+</Profile>
