@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 41/63 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 41/63 -->
+			<X>-438.6283</X>
+			<Y>-4139.012</Y>
+			<Z>51.81739</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/63 -->
+			<X>-417.7099</X>
+			<Y>-4091.195</Y>
+			<Z>49.53496</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/62 -->
+			<X>-380.0395</X>
+			<Y>-4068.331</Y>
+			<Z>49.52721</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/60 -->
+			<X>-329.3604</X>
+			<Y>-4146.468</Y>
+			<Z>52.81819</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>7</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 42/68 -->
+			<X>-603.5516</X>
+			<Y>-4201.749</Y>
+			<Z>40.64651</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 41/68 -->
+			<X>-604.4401</X>
+			<Y>-4161.133</Y>
+			<Z>43.08253</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 41/68 -->
+			<X>-598.7978</X>
+			<Y>-4149.984</Y>
+			<Z>43.05352</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 41/68 -->
+			<X>-590.176</X>
+			<Y>-4141.022</Y>
+			<Z>41.62339</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/67 -->
+			<X>-582.9706</X>
+			<Y>-4111.129</Y>
+			<Z>43.40911</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 40/67 -->
+		<Position>
+			<X>-581.734</X>
+			<Y>-4109.51</Y>
+			<Z>43.52431</Z>
+		</Position>
+		<Name>Huklah</Name>
+	</Repair>
+</Profile>
