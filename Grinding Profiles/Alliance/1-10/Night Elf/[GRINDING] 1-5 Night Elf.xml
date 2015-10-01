@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Teldrassil 61/38 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 61/38 -->
+			<X>10514.05</X>
+			<Y>691.6754</Y>
+			<Z>1319.124</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/38 -->
+			<X>10516.59</X>
+			<Y>651.5503</Y>
+			<Z>1325.2</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/37 -->
+			<X>10549.6</X>
+			<Y>628.285</Y>
+			<Z>1329.84</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/36 -->
+			<X>10582.6</X>
+			<Y>643.6672</Y>
+			<Z>1329.282</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/35 -->
+			<X>10623.8</X>
+			<Y>652.1768</Y>
+			<Z>1328.599</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/34 -->
+			<X>10645.08</X>
+			<Y>685.7784</Y>
+			<Z>1328.643</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/35 -->
+			<X>10632.46</X>
+			<Y>728.1779</Y>
+			<Z>1322.931</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/34 -->
+			<X>10668.56</X>
+			<Y>739.5519</Y>
+			<Z>1321.914</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/36 -->
+			<X>10584.94</X>
+			<Y>769.6343</Y>
+			<Z>1312.653</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/38 -->
+			<X>10513.4</X>
+			<Y>760.9753</Y>
+			<Z>1315.612</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>7</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 60/42 -->
+			<X>10382.42</X>
+			<Y>752.3854</Y>
+			<Z>1320.585</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 59/41 -->
+			<X>10409.86</X>
+			<Y>772.7458</Y>
+			<Z>1324.288</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 59/41 -->
+			<X>10435.62</X>
+			<Y>793.5476</Y>
+			<Z>1322.701</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 59/41 -->
+		<Position>
+			<X>10436.7</X>
+			<Y>794.837</Y>
+			<Z>1322.702</Z>
+		</Position>
+		<Name>Keina</Name>
+	</Repair>
+</Profile>

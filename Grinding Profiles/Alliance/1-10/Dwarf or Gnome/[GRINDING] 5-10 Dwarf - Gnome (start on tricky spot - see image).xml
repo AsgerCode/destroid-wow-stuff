@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 44/47 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 41/47 -->
+			<X>-5426.901</X>
+			<Y>-254.717</Y>
+			<Z>404.1793</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/47 -->
+			<X>-5424.068</X>
+			<Y>-214.1748</Y>
+			<Z>403.5943</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/47 -->
+			<X>-5423.68</X>
+			<Y>-172.916</Y>
+			<Z>402.0777</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/46 -->
+			<X>-5417.504</X>
+			<Y>-126.7175</Y>
+			<Z>399.081</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/46 -->
+			<X>-5404.865</X>
+			<Y>-86.1022</Y>
+			<Z>394.2612</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/44 -->
+			<X>-5335.722</X>
+			<Y>-36.20867</Y>
+			<Z>395.3308</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/46 -->
+			<X>-5387.784</X>
+			<Y>-14.9174</Y>
+			<Z>395.6991</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/46 -->
+			<X>-5402.464</X>
+			<Y>-51.36354</Y>
+			<Z>393.2805</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/47 -->
+			<X>-5444.559</X>
+			<Y>-132.9418</Y>
+			<Z>404.8865</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/47 -->
+			<X>-5441.767</X>
+			<Y>-173.4294</Y>
+			<Z>410.0119</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>38</Faction>
+		<Faction>44</Faction>
+		<Faction>189</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 41/56 -->
+			<X>-5729.707</X>
+			<Y>-252.9642</Y>
+			<Z>354.8526</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 40/58 -->
+			<X>-5799.177</X>
+			<Y>-190.8919</Y>
+			<Z>353.6501</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 39/59 -->
+			<X>-5824.839</X>
+			<Y>-118.861</Y>
+			<Z>355.208</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 37/59 -->
+			<X>-5842.104</X>
+			<Y>-43.02348</Y>
+			<Z>363.4842</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 37/59 -->
+			<X>-5837.653</X>
+			<Y>-26.02335</Y>
+			<Z>362.6566</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 36/60 -->
+			<X>-5851.911</X>
+			<Y>19.93578</Y>
+			<Z>354.1207</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 35/59 -->
+			<X>-5832.955</X>
+			<Y>50.36937</Y>
+			<Z>357.0792</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 34/57 -->
+			<X>-5776.563</X>
+			<Y>85.32028</Y>
+			<Z>364.0213</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 34/56 -->
+			<X>-5739.636</X>
+			<Y>91.41784</Y>
+			<Z>369.883</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 34/55 -->
+			<X>-5706.148</X>
+			<Y>79.34608</Y>
+			<Z>381.7416</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 46/51 -->
+			<X>-5577.083</X>
+			<Y>-482.2939</Y>
+			<Z>397.4567</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 45/51 -->
+			<X>-5579.327</X>
+			<Y>-445.8309</Y>
+			<Z>401.4926</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 45/52 -->
+			<X>-5588.665</X>
+			<Y>-440.2715</Y>
+			<Z>399.2193</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 45/52 -->
+			<X>-5589.297</X>
+			<Y>-429.7909</Y>
+			<Z>397.3267</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 45/52 -->
+		<Position>
+			<X>-5590.67</X>
+			<Y>-428.416</Y>
+			<Z>397.3257</Z>
+		</Position>
+		<Name>Grawn Thromwyn</Name>
+	</Repair>
+</Profile>

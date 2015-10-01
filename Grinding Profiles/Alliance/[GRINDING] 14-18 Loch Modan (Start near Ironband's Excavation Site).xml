@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Loch Modan 65/68 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 65/68 -->
+			<X>-5754.328</X>
+			<Y>-3790.287</Y>
+			<Z>326.517</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 66/74 -->
+			<X>-5854.454</X>
+			<Y>-3834.282</Y>
+			<Z>347.8001</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/75 -->
+			<X>-5868.227</X>
+			<Y>-3872.463</Y>
+			<Z>354.0921</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 69/73 -->
+			<X>-5847.68</X>
+			<Y>-3913.37</Y>
+			<Z>356.6638</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/72 -->
+			<X>-5822.734</X>
+			<Y>-3948.962</Y>
+			<Z>361.4073</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 72/71 -->
+			<X>-5809.094</X>
+			<Y>-4000.169</Y>
+			<Z>370.0099</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 74/71 -->
+			<X>-5804.133</X>
+			<Y>-4043.894</Y>
+			<Z>372.9659</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>44</Faction>
+		<Faction>189</Faction>
+		<Faction>14</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 65/67 -->
+			<X>-5731.93</X>
+			<Y>-3794.469</Y>
+			<Z>326.0244</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 65/66 -->
+			<X>-5701.95</X>
+			<Y>-3789.379</Y>
+			<Z>322.663</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 64/66 -->
+			<X>-5702.333</X>
+			<Y>-3783.932</Y>
+			<Z>322.7496</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 64/66 -->
+		<Position>
+			<X>-5702.52</X>
+			<Y>-3781.79</Y>
+			<Z>322.8192</Z>
+		</Position>
+		<Name>Aldren Cordon</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 33/50 -->
+			<X>-5419.381</X>
+			<Y>-2923.623</Y>
+			<Z>348.4283</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 35/52 -->
+			<X>-5448.17</X>
+			<Y>-2965.073</Y>
+			<Z>354.9521</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 36/52 -->
+			<X>-5461.983</X>
+			<Y>-3011.742</Y>
+			<Z>357.6508</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 38/53 -->
+			<X>-5469.93</X>
+			<Y>-3055.99</Y>
+			<Z>355.8279</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 40/54 -->
+			<X>-5494.482</X>
+			<Y>-3100.019</Y>
+			<Z>348.8383</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/56 -->
+			<X>-5529.06</X>
+			<Y>-3129.927</Y>
+			<Z>347.6977</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 42/60 -->
+			<X>-5595.184</X>
+			<Y>-3176.016</Y>
+			<Z>330.2587</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 44/62 -->
+			<X>-5644.001</X>
+			<Y>-3218.799</Y>
+			<Z>325.022</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 45/65 -->
+			<X>-5685.2</X>
+			<Y>-3253.417</Y>
+			<Z>316.9425</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 47/66 -->
+			<X>-5719.632</X>
+			<Y>-3298.632</Y>
+			<Z>307.943</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 48/68 -->
+			<X>-5739.184</X>
+			<Y>-3332.585</Y>
+			<Z>303.812</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 64/69 -->
+			<X>-5758.621</X>
+			<Y>-3776.717</Y>
+			<Z>324.2032</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 66/71 -->
+			<X>-5808.305</X>
+			<Y>-3824.83</Y>
+			<Z>343.3274</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 68/72 -->
+			<X>-5818.093</X>
+			<Y>-3878.03</Y>
+			<Z>351.3326</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 69/71 -->
+			<X>-5810.514</X>
+			<Y>-3924.169</Y>
+			<Z>355.1349</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

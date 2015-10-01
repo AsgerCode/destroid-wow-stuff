@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 26/69 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 26/69 -->
+			<X>-6168.471</X>
+			<Y>513.1859</Y>
+			<Z>387.3561</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 25/70 -->
+			<X>-6189.669</X>
+			<Y>569.4673</Y>
+			<Z>386.1474</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 24/72 -->
+			<X>-6241.276</X>
+			<Y>612.7087</Y>
+			<Z>390.5323</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 22/72 -->
+			<X>-6257.234</X>
+			<Y>673.2104</Y>
+			<Z>387.1208</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/72 -->
+			<X>-6250.094</X>
+			<Y>720.4816</Y>
+			<Z>386.9553</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/70 -->
+			<X>-6206.042</X>
+			<Y>733.7635</Y>
+			<Z>387.5645</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 22/69 -->
+			<X>-6168.316</X>
+			<Y>699.3757</Y>
+			<Z>386.1111</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/68 -->
+			<X>-6139.378</X>
+			<Y>636.2979</Y>
+			<Z>389.5988</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 24/68 -->
+			<X>-6130.25</X>
+			<Y>598.2656</Y>
+			<Z>393.3592</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>1094</Faction>
+		<Faction>36</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 28/69 -->
+			<X>-6162.926</X>
+			<Y>384.1451</Y>
+			<Z>399.0292</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 28/68 -->
+			<X>-6131.374</X>
+			<Y>383.8703</Y>
+			<Z>395.5435</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 28/68 -->
+			<X>-6129.045</X>
+			<Y>375.2187</Y>
+			<Z>395.5461</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 28/67 -->
+			<X>-6107.111</X>
+			<Y>375.5111</Y>
+			<Z>395.5425</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 28/67 -->
+			<X>-6104.809</X>
+			<Y>383.8275</Y>
+			<Z>395.5425</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 28/67 -->
+		<Position>
+			<X>-6104.5</X>
+			<Y>384.03</Y>
+			<Z>395.5426</Z>
+		</Position>
+		<Name>Grundel Harkin</Name>
+	</Repair>
+</Profile>
