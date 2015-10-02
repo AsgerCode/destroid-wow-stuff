@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Teldrassil 57/65 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 57/65 -->
+			<X>9618.811</X>
+			<Y>907.9984</Y>
+			<Z>1266.11</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/65 -->
+			<X>9601.545</X>
+			<Y>923.5868</Y>
+			<Z>1268.198</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/66 -->
+			<X>9587.906</X>
+			<Y>935.7678</Y>
+			<Z>1267.533</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/66 -->
+			<X>9572.559</X>
+			<Y>977.7528</Y>
+			<Z>1269.516</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/66 -->
+			<X>9568.424</X>
+			<Y>995.8401</Y>
+			<Z>1268.203</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 54/66 -->
+			<X>9570.891</X>
+			<Y>1026.009</Y>
+			<Z>1266.13</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 58/71 -->
+			<X>9388.428</X>
+			<Y>821.6415</Y>
+			<Z>1257.983</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/71 -->
+			<X>9391.932</X>
+			<Y>791.8865</Y>
+			<Z>1258.375</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/71 -->
+			<X>9410.708</X>
+			<Y>743.1707</Y>
+			<Z>1265.538</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/69 -->
+			<X>9464.689</X>
+			<Y>724.8604</Y>
+			<Z>1259.452</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/68 -->
+			<X>9497.515</X>
+			<Y>689.1917</Y>
+			<Z>1265.02</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/67 -->
+			<X>9544.254</X>
+			<Y>697.6606</Y>
+			<Z>1264.984</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/65 -->
+			<X>9604.391</X>
+			<Y>724.7313</Y>
+			<Z>1266.961</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/65 -->
+			<X>9621.656</X>
+			<Y>736.8862</Y>
+			<Z>1268.018</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>14</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 55/59 -->
+			<X>9822.098</X>
+			<Y>967.3107</Y>
+			<Z>1308.781</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 55/59 -->
+		<Position>
+			<X>9821.98</X>
+			<Y>968.831</Y>
+			<Z>1308.777</Z>
+		</Position>
+		<Name>Jeena Featherbow</Name>
+	</Repair>
+</Profile>
