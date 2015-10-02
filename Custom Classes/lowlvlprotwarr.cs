@@ -30,7 +30,6 @@ namespace something
             return (this.Target.CreatureType != CreatureType.Elemental && this.Target.CreatureType != CreatureType.Mechanical);
         }
 		
-		
         public override void PreFight()
         {
             this.SetCombatDistance(3);
@@ -63,7 +62,7 @@ namespace something
             {
 				if(TargetCanBleed())
                 if (!this.Target.GotDebuff("Rend") && this.Player.Rage >= 10 & this.Target.HealthPercent > 66)
-				{
+                {
                     this.Player.Cast("Rend");
                     return;
                 }
@@ -116,22 +115,14 @@ namespace something
 
 			  if (this.Player.GetSpellRank("Heroic Strike") != 0)
             {
-                if (this.Player.Rage >= 15)
+                if (this.Player.Rage >= 15 && this.Target.GotDebuff("Rend"))
                 {
                     this.Player.Cast("Heroic Strike");
 					return;
                 }
             }
 			
-			if (this.Player.GetSpellRank("Thunder Clap") != 0)
-            {
-                if (!this.Target.GotDebuff("Thunder Clap") && this.Player.Rage >= 20)
-                {
-                    this.Player.Cast("Thunder Clap");
-					return;
-                }
-            }
-			
+
             if (this.Player.GetSpellRank("Shield Block") != 0)
             {
                 if (this.Player.Rage >= 10 && !this.Player.GotBuff("Shield Block"))
