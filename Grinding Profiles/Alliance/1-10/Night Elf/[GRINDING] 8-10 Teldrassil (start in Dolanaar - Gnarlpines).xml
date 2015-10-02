@@ -51,20 +51,6 @@
 			<Z>1317.619</Z>
 			<Type>Hotspot</Type>
 		</Hotspot>
-		<Hotspot>
-			<!-- Pos: 44/57 -->
-			<X>9891.169</X>
-			<Y>1540.563</Y>
-			<Z>1327.884</Z>
-			<Type>Hotspot</Type>
-		</Hotspot>
-		<Hotspot>
-			<!-- Pos: 44/57 -->
-			<X>9878.355</X>
-			<Y>1524.338</Y>
-			<Z>1334.545</Z>
-			<Type>Hotspot</Type>
-		</Hotspot>
 	</Hotspots>
 	<Factions>
 		<Faction>82</Faction>
