@@ -25,6 +25,12 @@ namespace something
             } 
         }
 
+		 private bool TargetCanBleed()
+        {
+            return (this.Target.CreatureType != CreatureType.Elemental && this.Target.CreatureType != CreatureType.Mechanical);
+        }
+		
+		
         public override void PreFight()
         {
             this.SetCombatDistance(3);
@@ -55,8 +61,9 @@ namespace something
 
             if (this.Player.GetSpellRank("Rend") != 0)
             {
+				if(TargetCanBleed())
                 if (!this.Target.GotDebuff("Rend") && this.Player.Rage >= 10 & this.Target.HealthPercent > 66)
-                {
+				{
                     this.Player.Cast("Rend");
                     return;
                 }
