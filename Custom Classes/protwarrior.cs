@@ -32,7 +32,7 @@ namespace something
 		
         public override void PreFight()
         {
-            this.SetCombatDistance(3);
+            this.SetCombatDistance(30);
             this.Player.Attack();
             if (this.Player.GetSpellRank("Shoot Bow") != 0)
             {
@@ -47,7 +47,8 @@ namespace something
 
         public override void Fight()
         {
-            this.Player.Attack();
+            this.SetCombatDistance(30);
+			this.Player.Attack();
 
             if (this.Player.GetSpellRank("Battle Shout") != 0)
             {
@@ -113,15 +114,7 @@ namespace something
                 }
             }
 
-			if (this.Player.GetSpellRank("Thunder Clap") != 0)
-            {
-                if (!this.Target.GotDebuff("Thunder Clap") && this.Player.Rage >= 20)
-                {
-                    this.Player.Cast("Thunder Clap");
-					return;
-                }
-            }
-			
+
             if (this.Player.GetSpellRank("Shield Block") != 0)
             {
                 if (this.Player.Rage >= 10 && !this.Player.GotBuff("Shield Block"))

@@ -32,7 +32,7 @@ namespace something
 		
         public override void PreFight()
         {
-            this.SetCombatDistance(3);
+            this.SetCombatDistance(30);
             this.Player.Attack();
             if (this.Player.GetSpellRank("Shoot Bow") != 0)
             {
@@ -47,7 +47,8 @@ namespace something
 
         public override void Fight()
         {
-            this.Player.Attack();
+            this.SetCombatDistance(30);
+			this.Player.Attack();
 
             if (this.Player.GetSpellRank("Battle Shout") != 0)
             {
