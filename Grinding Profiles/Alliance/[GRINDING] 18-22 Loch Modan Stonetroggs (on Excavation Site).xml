@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Loch Modan 69/67 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 69/67 -->
+			<X>-5735.984</X>
+			<Y>-3923.78</Y>
+			<Z>317.8534</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 71/68 -->
+			<X>-5742.669</X>
+			<Y>-3958.054</Y>
+			<Z>323.3178</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 71/68 -->
+			<X>-5742.338</X>
+			<Y>-3973.032</Y>
+			<Z>328.8913</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/63 -->
+			<X>-5649.449</X>
+			<Y>-3882.215</Y>
+			<Z>322.5558</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/62 -->
+			<X>-5639.565</X>
+			<Y>-3931.329</Y>
+			<Z>325.0609</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/64 -->
+			<X>-5672.109</X>
+			<Y>-3935.654</Y>
+			<Z>325.1699</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/66 -->
+			<X>-5711.227</X>
+			<Y>-3944.538</Y>
+			<Z>325.0389</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/60 -->
+			<X>-5601.581</X>
+			<Y>-3942.066</Y>
+			<Z>325.6801</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 72/61 -->
+			<X>-5623.419</X>
+			<Y>-3998.013</Y>
+			<Z>324.3454</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 72/64 -->
+			<X>-5673.045</X>
+			<Y>-3998.562</Y>
+			<Z>327.1935</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 69/59 -->
+			<X>-5586.115</X>
+			<Y>-3916.133</Y>
+			<Z>328.2288</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 67/59 -->
+			<X>-5588.949</X>
+			<Y>-3853.302</Y>
+			<Z>325.1548</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>59</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 64/66 -->
+			<X>-5704.948</X>
+			<Y>-3782.599</Y>
+			<Z>322.8109</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 64/66 -->
+		<Position>
+			<X>-5702.52</X>
+			<Y>-3781.79</Y>
+			<Z>322.8192</Z>
+		</Position>
+		<Name>Aldren Cordon</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 42/58 -->
+			<X>-5561.191</X>
+			<Y>-3174.416</Y>
+			<Z>333.6441</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 43/62 -->
+			<X>-5636.397</X>
+			<Y>-3199.167</Y>
+			<Z>328.8189</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 45/66 -->
+			<X>-5702.917</X>
+			<Y>-3251.052</Y>
+			<Z>311.3361</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 47/67 -->
+			<X>-5735.518</X>
+			<Y>-3297.307</Y>
+			<Z>309.5034</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/69 -->
+			<X>-5758.252</X>
+			<Y>-3347.828</Y>
+			<Z>303.0612</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/69 -->
+			<X>-5761.932</X>
+			<Y>-3396.723</Y>
+			<Z>303.0381</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/67 -->
+			<X>-5734.218</X>
+			<Y>-3492.113</Y>
+			<Z>303.5778</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/66 -->
+			<X>-5702.791</X>
+			<Y>-3581.967</Y>
+			<Z>314.6373</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/65 -->
+			<X>-5684.835</X>
+			<Y>-3674.084</Y>
+			<Z>315.2629</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 63/65 -->
+			<X>-5683.804</X>
+			<Y>-3736.813</Y>
+			<Z>321.484</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>
